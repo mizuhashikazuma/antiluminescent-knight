@@ -1,0 +1,13 @@
+HOW TO PLAY
+
+1)run local host using xampp apps
+2)google search "http://localhost/webproject/multimedia project"
+3)run game.html
+4)space to attack, arrow to move
+
+
+SORRY MAAM,IF ANY PROBLEM PLEASE CONTACT ME (011-65656098)
+
+Muhammad Amirul Fahmi Bin Abd Rahim
+2191075
+2TSI
