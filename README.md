@@ -34,6 +34,10 @@ To get started with Antiluminescent Knight, follow these steps:
 4. **Access the game in your web browser:**
     - Open your web browser and navigate to `http://localhost/antiluminescent-knight`.
 
+5. **Launch the game:**
+    - Click `game.html` to start playing the game.
+  
+   
 ## Feedback
 
 We appreciate your feedback! Feel free to download, explore, and provide feedback to help us improve the game.
