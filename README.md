@@ -4,7 +4,15 @@ Welcome to **Antiluminescent Knight**, a mini game project developed using **Kab
 
 ## About the Game
 
-Antiluminescent Knight is an action-packed RPG game that immerses you in a dark, mysterious world where you play as the knight, an envoy of chaos. Battle your way through challenging levels, defeat enemies, and uncover the secrets that lie in the shadows.
+Antiluminescent Knight is an action-packed RPG game that immerses you in a dark, mysterious world where you play as the knight, an envoy of chaos. As the Antiluminescent Knight, you are tasked with a perilous mission to restore balance in a realm engulfed by darkness and corruption. Armed with your sword and a variety of mystical powers, you will battle your way through challenging levels filled with formidable enemies and treacherous obstacles.
+
+In your journey, you will explore eerie landscapes, from haunted forests to desolate ruins, each brimming with hidden secrets and lore waiting to be uncovered. The game's rich narrative and atmospheric graphics draw you deeper into the storyline, making each victory and discovery more rewarding.
+
+Engage in intense combat, utilizing a combination of melee attacks, magic spells, and strategic thinking to overcome the diverse array of enemies. Upgrade your abilities, acquire powerful artifacts, and customize your skills to suit your playstyle as you progress through the game.
+
+The journey of the Antiluminescent Knight is not just about defeating enemies but also about uncovering the mysteries of the dark world around you. Discover ancient relics, solve puzzles, and interact with intriguing characters who will aid or hinder your quest. Every decision you make can influence the outcome of your adventure.
+
+Are you ready to embrace the darkness and become the hero that this shadowy world desperately needs? Step into the boots of the Antiluminescent Knight and embark on an epic adventure filled with danger, discovery, and destiny.
 
 ![logo1](https://github.com/mizuhashikazuma/antiluminescent-knight/assets/120730104/8a617d90-112b-40a7-b16d-26be6bb68904)
 ## Features
