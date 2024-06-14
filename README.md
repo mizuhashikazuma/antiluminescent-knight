@@ -4,6 +4,8 @@ Welcome to **Antiluminescent Knight**, a mini game project developed using **Kab
 
 ## About the Game
 
+![logo1](https://github.com/mizuhashikazuma/antiluminescent-knight/assets/120730104/8a617d90-112b-40a7-b16d-26be6bb68904)
+
 Antiluminescent Knight is an action-packed RPG game that immerses you in a dark, mysterious world where you play as the knight, an envoy of chaos. As the Antiluminescent Knight, you are tasked with a perilous mission to restore balance in a realm engulfed by darkness and corruption. Armed with your sword and a variety of mystical powers, you will battle your way through challenging levels filled with formidable enemies and treacherous obstacles.
 
 In your journey, you will explore eerie landscapes, from haunted forests to desolate ruins, each brimming with hidden secrets and lore waiting to be uncovered. The game's rich narrative and atmospheric graphics draw you deeper into the storyline, making each victory and discovery more rewarding.
@@ -14,7 +16,15 @@ The journey of the Antiluminescent Knight is not just about defeating enemies bu
 
 Are you ready to embrace the darkness and become the hero that this shadowy world desperately needs? Step into the boots of the Antiluminescent Knight and embark on an epic adventure filled with danger, discovery, and destiny.
 
-![logo1](https://github.com/mizuhashikazuma/antiluminescent-knight/assets/120730104/8a617d90-112b-40a7-b16d-26be6bb68904)
+
+## Screenshots
+*Game screenshot*
+<p float="left">
+  <img src="https://github.com/mizuhashikazuma/antiluminescent-knight/assets/120730104/4a5d68e3-e124-470e-93d4-d8910df878f8" width="45%"/>
+  <img src="https://github.com/mizuhashikazuma/antiluminescent-knight/assets/120730104/5747c8fd-be21-47c4-8135-6e11b12d89e3" width="45%" /> 
+</p>
+
+
 ## Features
 
 - **Engaging Gameplay**: Fast-paced action RPG and challenging enemies.
